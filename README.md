@@ -1,7 +1,4 @@
-<h1 align="center">🤖 MURPHY-MD</h1>
-<p align="center">
-  <img src="https://i.ibb.co/rk4WVgf/https://files.catbox.moe/xyk2t0.jpg" alt="https://files.catbox.moe/xyk2t0.jpg" width="600"/>
-</p>
+https://files.catbox.moe/xyk2t0.jpg
 
 <p align="center">
   Bot WhatsApp Multi-Device puissant et flexible basé sur <b>Baileys</b><br>
