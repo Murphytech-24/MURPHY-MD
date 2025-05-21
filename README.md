@@ -1,48 +1,61 @@
-# MURPHY-MD - WhatsApp Multi-Device Bot
+<h1 align="center">🤖 MURPHY-MD</h1>
+<p align="center">
+  <img src="https://i.ibb.co/rk4WVgf/murphy-banner.png" alt="Murphy MD" width="600"/>
+</p>
 
-![Murphy MD Banner](https://files.catbox.moe/xyk2t0.jpg)
-
-Bienvenue sur **Murphy-MD**, un bot WhatsApp Multi-Device puissant basé sur [Baileys](https://github.com/WhiskeySockets/Baileys), facile à personnaliser et à déployer !
-
----
-
-## 🚀 Fonctionnalités
-
-- Commandes d'administration (kick, promote, demote, tag, etc.)
-- Création de stickers
-- Messages de bienvenue/au revoir automatiques avec image
-- Mode public/self
-- Commande `menu` avec image et liste de commandes
-- Et bien plus à venir...
+<p align="center">
+  Bot WhatsApp Multi-Device puissant et flexible basé sur <b>Baileys</b><br>
+  Contrôle total, commandes funs, modération, stickers, et plus encore !
+</p>
 
 ---
 
-## 📦 Déploiement rapide
+## 🚀 Démo en ligne
 
-Tu peux utiliser la plateforme **Render** pour héberger ton bot en quelques clics.
-
-### Lien de pairingCode :
-
-**[https://murphy-md-gmjy.onrender.com](https://murphy-md-gmjy.onrender.com)**
+> Teste MURPHY-MD ici :
+**[https://murphy-md.onrender.com](https://murphy-md.onrender.com)**
 
 ---
 
-## 🧩 Clonage et Fork
+## 🌟 Fonctionnalités
 
-Clique ici pour forker ce dépôt et commencer ton propre bot :
-
-[![Fork](https://img.shields.io/badge/Fork%20le%20repo-Here-green?style=for-the-badge&logo=github)](https://github.com/murphytech-242/MURPHY-MD/fork)
+- [x] Commandes de modération (`kick`, `tag`, `promote`, `demote`)
+- [x] Création de stickers (`sticker`)
+- [x] Commandes funs et utiles (`help`, `info`, `tagadmins`)
+- [x] Commandes de configuration (`self`, `public`)
+- [x] Menu avec image + liste des commandes (`menu`)
+- [x] Bienvenue / Au revoir automatiques avec image (`welcome`, `goodbye`)
+- [x] Système modulaire de commandes
 
 ---
 
-## 📁 Structure du projet
+## 🧠 Installation (GitHub + Railway)
 
+1. **Fork** le repo :  
+   [![Fork](https://img.shields.io/github/forks/murphytech-242/MURPHY-MD?style=social)](https://github.com/murphytech-242/MURPHY-MD/fork)
+
+2. **Clone le dépôt**
 ```bash
-MURPHY-MD/
-├── commands/             # Toutes les commandes du bot
-├── handlers/             # Gestionnaire de commandes
-├── media/                # Images de bienvenue/goodbye
-├── index.js              # Fichier principal (initialisation)
-├── murphy.js             # Fichier de logique des commandes
-├── config.js             # Configuration du bot
-└── README.md             # Ce fichier
+git clone https://github.com/murphytech-242/MURPHY-MD.git
+cd MURPHY-MD
+
+
+Développé avec passion par murphytech-242
+
+Propulsé par Baileys
+
+
+
+---
+
+☕ Supporte le projet
+
+Un simple ⭐️ sur le repo est déjà un super soutien !
+Fork, utilise et partage Murphy-MD !
+
+
+---
+
+<p align="center">
+  Made with 💻 + ☕ by <b>MurphyTech</b>
+</p>
