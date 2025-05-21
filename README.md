@@ -1,6 +1,6 @@
 <h1 align="center">🤖 MURPHY-MD</h1>
 <p align="center">
-  <img src="https://i.ibb.co/rk4WVgf/https://files.catbox.moe/xyk2t0.jpg" alt="Murphy MD" width="600"/>
+  <img src="https://i.ibb.co/rk4WVgf/https://files.catbox.moe/xyk2t0.jpg" alt="https://files.catbox.moe/xyk2t0.jpg" width="600"/>
 </p>
 
 <p align="center">
